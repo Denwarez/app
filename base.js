@@ -10,7 +10,7 @@ let name = prompt ("Ваше имя")
 alert("Вас зовут: " + name + " И вам: " + age)
 
 
-
+f
 
 let currentYear = 1000
 const birthYear = 1993
@@ -101,7 +101,7 @@ if(isReady)
     console.log('🤑')
 }
 else{
-    console.log('😅')
+    console.log('😅 ')
 }
 
 const isReade = true
