@@ -89,7 +89,10 @@ else if (courseStatus ==='pending')
 {
     console.log('все готово')
 }
-else {
+else {   
+
+
+    d
     console.log('условие не сработало')
 }
 */
