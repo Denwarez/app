@@ -11,6 +11,8 @@ if (age >2020)
 } else {
     console.log('Этоо будущее')
 }
-}
+}  
+
+
 
 LogInfoAbout('Mike', 1989)
