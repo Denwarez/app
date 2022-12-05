@@ -216,3 +216,5 @@ const person = {
     person.hasWife = true
     console.log(person)
     person.isProgrammer = true
+
+    
